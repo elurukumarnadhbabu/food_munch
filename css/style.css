@@ -170,6 +170,10 @@
 .thanking-customers-section {
   background-image: radial-gradient(#fff8db, #fae38c);
 }
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
+}
 .thanking-customers-section-heading {
   color: #183b56;
   font-family: "Roboto";
